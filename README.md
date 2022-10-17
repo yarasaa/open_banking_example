@@ -1,3 +1,3 @@
 <p align="center"
-<img scr="flutter_mobile_bank_app.png" width="350" title="Example Screen">
+<img scr="open_banking_example/flutter_mobile_bank_app.png" width="350" title="Example Screen">
 </p>
